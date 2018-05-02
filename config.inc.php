@@ -30,6 +30,8 @@ $cfg['Servers'][$i]['auth_type'] = 'cookie';
 /* Server parameters */
 $cfg['Servers'][$i]['host'] = 'jws-simplyfit-mysql';
 $cfg['Servers'][$i]['compress'] = false;
+$cfg['Servers'][$i]['user'] = 'user8M1';
+$cfg['Servers'][$i]['password'] = '0Fj683Wq';
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 
 /**
