@@ -11,12 +11,12 @@ $i = 0;
 /* Server: jws-simplyfit-mysql [1] */
 $i++;
 $cfg['Servers'][$i]['verbose'] = '';
-$cfg['Servers'][$i]['host'] = 'jws-simplyfit-mysql';
+$cfg['Servers'][$i]['host'] = 'mysql';
 $cfg['Servers'][$i]['port'] = '';
 $cfg['Servers'][$i]['socket'] = '';
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
-$cfg['Servers'][$i]['user'] = 'user8M1';
-$cfg['Servers'][$i]['password'] = '0Fj683Wq';
+$cfg['Servers'][$i]['user'] = 'SFAdmin';
+$cfg['Servers'][$i]['password'] = '123qwer@';
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 
 /* End of servers configuration */
