@@ -11,7 +11,7 @@ $i = 0;
 /* Server: jws-simplyfit-mysql [1] */
 $i++;
 $cfg['Servers'][$i]['verbose'] = '';
-$cfg['Servers'][$i]['host'] = 'jws-app-mysql';
+$cfg['Servers'][$i]['host'] = 'simplyfit-mysql';
 $cfg['Servers'][$i]['port'] = '';
 $cfg['Servers'][$i]['socket'] = '';
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
